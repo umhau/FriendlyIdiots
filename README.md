@@ -1,5 +1,23 @@
-# FriendlyIdiots
+# The Modpack of the Friendly Idiots
 
-Minecraft modding for our personal servers
+There's multiple variations, because we're extra.
 
-This should make it easier to use the right mods for the right games. 
+## Step 1
+Install Forge.
+
+## Step 2
+Download this modpack, and put the contents of the FI-Modded folder in AppData\Roaming\.minecraft\mods.
+
+## Step 3
+Fire up minecraft & enjoy!
+
+# Mods List
+
+## Currently Installed
+- Ice and Fire
+- Create
+- Just Enough Items
+- Waystones
+
+## Future Proposals
+- Carry On
