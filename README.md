@@ -6,7 +6,7 @@ There's multiple variations, because we're extra.
 Install Forge.
 
 ## Step 2
-Download this modpack, and put the contents of the FI-Modded folder in AppData\Roaming\.minecraft\mods.
+Download this modpack, and put the contents of the `FI-Modded` folder in `AppData\Roaming\.minecraft\mods`.
 
 ## Step 3
 Fire up minecraft & enjoy!
