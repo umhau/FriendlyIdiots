@@ -21,3 +21,4 @@ Fire up minecraft & enjoy!
 
 ## Future Proposals
 - Carry On
+- [ something to expand the inventory ]
