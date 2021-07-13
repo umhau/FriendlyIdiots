@@ -20,20 +20,14 @@ General philosophy: do not increase the complexity of the world.
 Crafting should still be relatively simple - no crazy complex recipes. Do not make it hard to survive, and do not give the appearance of a zoo.  Everything should feel natural (fully integrated) and well built.
 
 ## Currently Installed
-- Ice and Fire
 
+#### Ice and Fire
 Because DRAGONS!
-
-- Create
-
+#### Create
 Added because That Guy wants it.
-
-- Just Enough Items
-
+#### Just Enough Items
 See what the recipes are.
-
-- Waystones
-
+#### Waystones
 Teleportation _au natural_! And it's integrated with the towers of the wild.
 
 ## Future Proposals
