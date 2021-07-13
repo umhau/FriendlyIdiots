@@ -21,9 +21,13 @@ Crafting should still be relatively simple - no crazy complex recipes. Do not ma
 
 ## Currently Installed
 - Ice and Fire
+Because DRAGONS!
 - Create
+Added because That Guy wants it.
 - Just Enough Items
+See what the recipes are.
 - Waystones
+Teleportation _au natural_! And it's integrated with the towers of the wild.
 
 ## Future Proposals
 
