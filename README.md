@@ -1,4 +1,4 @@
-# The Modpack of the Friendly Idiots
+# The Modpacks of the Friendly Idiots
 
 There's multiple variations, because we're extra.
 
@@ -6,14 +6,18 @@ There's multiple variations, because we're extra.
 Install Forge.
 
 ## Step 2
-Download this modpack, and put the contents of the `FI-Modded` folder in `AppData\Roaming\.minecraft\mods`.
+Pick a modpack, download it, and put the contents in `AppData\Roaming\.minecraft\mods`.  Remember to remove all other mods from the folder. (You can put them in a subfolder.)
 
 ## Step 3
 Fire up minecraft & enjoy!
 
-# Mods List
+# Mods List for FI-Modded
 
-(Specifically for the `FI-Modded` world.)
+Because that's the one getting ALL THE MODS dumped in it. 
+
+General philosophy: do not increase the complexity of the world. 
+
+Crafting should still be relatively simple - no crazy complex recipes. Do not make it hard to survive, and do not give the appearance of a zoo.  Everything should feel natural (fully integrated) and well built.
 
 ## Currently Installed
 - Ice and Fire
