@@ -21,14 +21,10 @@ Crafting should still be relatively simple - no crazy complex recipes. Do not ma
 
 ## Currently Installed
 
-#### Ice and Fire
-Because DRAGONS!
-#### Create
-Added because That Guy wants it.
-#### Just Enough Items
-See what the recipes are.
-#### Waystones
-Teleportation _au natural_! And it's integrated with the towers of the wild.
+- Ice and Fire
+- Create
+- Just Enough Items
+- Waystones
 
 ## Future Proposals
 
@@ -51,13 +47,16 @@ Teleportation _au natural_! And it's integrated with the towers of the wild.
 - https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
 - https://www.curseforge.com/minecraft/mc-mods/snow-under-trees
 - https://www.curseforge.com/minecraft/mc-mods/fence-jumper
+
 - https://www.curseforge.com/minecraft/mc-mods/death-compass
 - https://www.curseforge.com/minecraft/mc-mods/corpse
+
 - https://www.curseforge.com/minecraft/mc-mods/appleskin
+
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - https://www.curseforge.com/minecraft/mc-mods/antique-waystones
 - https://www.curseforge.com/minecraft/mc-mods/antique-atlas
-- 
+
 #### Awesome structures
 Pretty sure these are probably all server-side only.
 
@@ -69,10 +68,11 @@ Pretty sure these are probably all server-side only.
 
 #### More Mobs
 
-- https://www.curseforge.com/minecraft/mc-mods/odd-water-mobs
-- https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures
 - https://www.curseforge.com/minecraft/mc-mods/revampedwolf
 - https://www.curseforge.com/minecraft/mc-mods/exotic-birds
+
+- https://www.curseforge.com/minecraft/mc-mods/odd-water-mobs
+- https://www.curseforge.com/minecraft/mc-mods/pandoras-creatures
 - https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
 - https://www.curseforge.com/minecraft/mc-mods/aquaculture
 
@@ -84,6 +84,10 @@ Pretty sure these are probably all server-side only.
 ## Stuff to Craft
 
 - https://www.curseforge.com/minecraft/mc-mods/construction-wand
+- https://www.curseforge.com/minecraft/mc-mods/createaddition
+- https://www.curseforge.com/minecraft/mc-mods/customizable-elytra
+- https://www.curseforge.com/minecraft/mc-mods/curious-elytra
+
 - https://www.curseforge.com/minecraft/mc-mods/natures-compass
 
 - https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers
@@ -91,13 +95,9 @@ Pretty sure these are probably all server-side only.
 - https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry
 - https://www.curseforge.com/minecraft/mc-mods/spartan-and-fire (compatibility mod with Ice and Fire)
 
-- https://www.curseforge.com/minecraft/mc-mods/curious-elytra
 - https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
-
 - https://www.curseforge.com/minecraft/mc-mods/miners-helmet
-- https://www.curseforge.com/minecraft/mc-mods/createaddition
 - https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod
-- https://www.curseforge.com/minecraft/mc-mods/customizable-elytra
 
 ## Maybe...?
 These aren't so relevant, but they're kinda interesting.
