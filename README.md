@@ -25,6 +25,7 @@ Crafting should still be relatively simple - no crazy complex recipes. Do not ma
 - Create
 - Just Enough Items
 - Waystones
+- Corpse
 
 ## Future Proposals
 
