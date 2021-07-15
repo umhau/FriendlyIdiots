@@ -13,6 +13,6 @@ There are many tools to aid your endeavors. Search the inventory assistant for r
 
 ## Installation
 
-This is a Forge modpack.  Download (here)[https://github.com/umhau/FriendlyIdiots/releases/download/v0.2/FI-Modded.zip].
+This is a Forge modpack.  Download [here](https://github.com/umhau/FriendlyIdiots/releases/download/v0.2/FI-Modded.zip).
 
 Put these files in `AppData\Roaming\.minecraft\mods`. Later, I'll separate the serverside mods from the rest. For now, just dump the pile.
