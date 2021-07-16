@@ -8,7 +8,7 @@ There are friendly peoples in the land of Id and these Id-ians are found in many
 There are many tools to aid your endeavors. Search the inventory assistant for recipes. 
 - Backpacks. These require a modification to the default controls (`esc -> controls -> backpack`). 
 - Grappling hooks. There are many high places, and enemies against which mobility is a great asset.
-- *Weapons.* Medieval, but greater in scope and power. Arrows are now cheaper to obtain.
+- Weapons. Medieval, but greater in scope and power. Arrows are now cheaper to obtain.
 - Mechanical production. The Create mod, the Construction Wand, and Carry On.
 - The Beastiary and the Animal Dictionary. These will teach you many of the creatures of this new world.
 
