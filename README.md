@@ -24,5 +24,3 @@ Indentations indicate dependencies.
 - https://www.curseforge.com/minecraft/mc-mods/appleskin
 
 - https://www.curseforge.com/minecraft/mc-mods/sodium/files
-
-- https://www.curseforge.com/minecraft/mc-mods/appleskin
