@@ -1,13 +1,13 @@
 Installation: 
 
-Run: fabric-installer-0.9.0.exe
+1. Run: fabric-installer-0.9.0.exe. 
 
-Use the given defaults, and press 'install'.
+2. Use the given defaults, and press 'install'.
 
-Copy the folder 'mods'.
+3. Copy the folder 'mods'.
 
-Go to: C:\Users\BOB\AppData\Roaming\.minecraft
+4. Go to: C:\Users\BOB\AppData\Roaming\.minecraft
 
-Paste 'mods' into this folder.
+5. Paste 'mods' into this folder.
 
-Launch minecraft. You should see an option for 'fabric'. use that. 
+6. Launch minecraft. You should see an option for 'fabric'. use that. 
