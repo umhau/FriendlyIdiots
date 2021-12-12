@@ -1,6 +1,6 @@
 Installation: 
 
-1. Run: fabric-installer-0.9.0.exe. 
+1. Run: fabric-installer-0.10.2.exe. 
 
 2. Use the given defaults, and press 'install'.
 
@@ -10,4 +10,4 @@ Installation:
 
 5. Paste the 'mods' folder into the '.minecraft' folder.
 
-6. Launch minecraft. You should see an option for 'fabric'. use that. 
+6. Launch minecraft. You should see an option for 'fabric'. use that.
