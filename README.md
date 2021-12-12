@@ -23,6 +23,8 @@ Indentations indicate dependencies.
 
 - https://www.curseforge.com/minecraft/mc-mods/appleskin (Note: this is 1.18, and I hope it's compatible with 1.18.1)
 
+- https://www.curseforge.com/minecraft/mc-mods/no-telemetry/files
+
 these are not updated
 ---------------------
 
