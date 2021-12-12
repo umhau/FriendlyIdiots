@@ -1,5 +1,12 @@
 
 
+- https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+  * https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
+  * https://www.curseforge.com/minecraft/mc-mods/cloth-config
+
+
+
+
 - https://www.curseforge.com/minecraft/mc-mods/flesh2leather-fabric/files
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 - https://www.curseforge.com/minecraft/mc-mods/mythic-mounts/files
