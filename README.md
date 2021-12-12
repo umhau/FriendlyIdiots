@@ -17,10 +17,19 @@ Indentations indicate dependencies.
 - https://www.curseforge.com/minecraft/mc-mods/waystones-fabric/files
   * https://www.curseforge.com/minecraft/mc-mods/balm-fabric
 
+
+
+these have not updated to 1.18.1 after 11 days
+----------------------------------------------
+
 - https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric
   * https://www.curseforge.com/minecraft/mc-mods/caelus-fabric/files
   * https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric/files
 
 - https://www.curseforge.com/minecraft/mc-mods/appleskin
-
 - https://www.curseforge.com/minecraft/mc-mods/sodium/files
+
+performance mods
+----------------
+
+https://jellysquid.me/projects
