@@ -8,6 +8,6 @@ Installation:
 
 4. Go to: C:\Users\YOUR_USERNAME\AppData\Roaming\.minecraft
 
-5. Paste the 'mods' folder into the '.minecraft' folder.
+5. Paste the 'mods' folder into the '.minecraft' folder. 
 
-6. Launch minecraft. You should see an option for 'fabric'. use that.
+6. Launch minecraft. You should see a new installation option for 'fabric'. Use that.
