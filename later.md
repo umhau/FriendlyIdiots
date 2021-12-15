@@ -29,7 +29,7 @@ best on both client and server but does not require both
 --------------------------------------------------------
 
 - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
-- https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap 
+- https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 
 serverside only
 ---------------

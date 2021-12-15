@@ -25,6 +25,10 @@ Indentations indicate dependencies.
 
 - https://www.curseforge.com/minecraft/mc-mods/no-telemetry/files
 
+- https://www.curseforge.com/minecraft/mc-mods/grizzly-bear
+- https://www.curseforge.com/minecraft/mc-mods/flesh2leather-fabric
+- https://www.curseforge.com/minecraft/mc-mods/inmis
+
 these are not updated
 ---------------------
 
