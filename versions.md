@@ -2,6 +2,15 @@
 - 0.X.0 represents an incompatible change in the modpack which requires users to redownload it.
 - 0.0.X represents a compatible change, so that users can ignore the change if they so choose.
 
+version 1.1.1
+-------------
+
+Added sodium client side, even though it's buggy.
+
+Added flesh2leather & inmis as quality of life improvements.
+
+Added grizzly bears for ambiance.
+
 version 1.0.2
 -------------
 
