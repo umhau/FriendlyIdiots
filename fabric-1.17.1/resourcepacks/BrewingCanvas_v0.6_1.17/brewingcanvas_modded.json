@@ -1,0 +1,118 @@
+{
+	"comment": "The first two paintings ensure the original paints from the vanilla part of the texture place still show up",
+	"comment_website": "By Rootbeerdrinker1 - https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-guide",
+	"paintings": [
+		{
+			"name": "oak",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "oak_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "blackstone",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "blackstone_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "gold",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "gold_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "bamboo",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "bamboo_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "crying_obsidian",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "crying_obsidian_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "purpur",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "purpur_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "dark_prismarine",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "dark_prismarine_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "lapis",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "lapis_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "nether_wart",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "nether_wart_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "copper",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "copper_large",
+			"x": 64,
+			"y": 32
+		},
+		{
+			"name": "dirt",
+			"x": 32,
+			"y": 16
+		},
+		{
+			"name": "dirt_large",
+			"x": 64,
+			"y": 32
+		}
+
+
+	]
+} 
