@@ -8,6 +8,12 @@ Installation:
 
 4. Go to: C:\Users\%username%\AppData\Roaming\.minecraft
 
-5. Paste the 'mods' folder into the '.minecraft' folder. 
+5. Paste the 'mods' and 'resourcepacks' folders into the '.minecraft' folder. 
 
 6. Launch minecraft. You should see a new installation option for 'fabric'. Use that.
+
+7. At the Multiplayer vs Singleplayer selection window, choose 'options' -> 'resource packs'. 
+
+8. Selec three resource packs: OliverRemund, RenaissanceAndBaroque, and BrewingCanvas.
+
+9. Open the server.
