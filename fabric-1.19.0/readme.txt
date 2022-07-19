@@ -14,6 +14,6 @@ Installation:
 
 7. At the Multiplayer vs Singleplayer selection window, choose 'options' -> 'resource packs'. 
 
-8. Selec three resource packs: OliverRemund, RenaissanceAndBaroque, and BrewingCanvas.
+8. Select the resource packs 'OliverRemund' and 'RenaissanceAndBaroque'.
 
 9. Open the server.
