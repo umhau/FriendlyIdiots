@@ -4,7 +4,7 @@ Installation:
 
 2. Use the given defaults, and press 'install'.
 
-3. Copy the folder 'mods'.
+3. Copy the folders 'mods' and 'resourcepacks'.
 
 4. Go to: C:\Users\%username%\AppData\Roaming\.minecraft
 
