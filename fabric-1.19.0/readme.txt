@@ -2,13 +2,13 @@ Installation:
 
 1. Run: fabric-installer-0.11.0.exe. 
 
-2. Use the given defaults, and press 'install'.
+2. Choose minecraft version 1.19 and the default loader version, and press 'install'.
 
 3. Copy the folders 'mods' and 'resourcepacks'.
 
 4. Go to: C:\Users\%username%\AppData\Roaming\.minecraft
 
-5. Paste the 'mods' and 'resourcepacks' folders into the '.minecraft' folder. 
+5. Paste the 'mods' and 'resourcepacks' folders into the '.minecraft' folder.
 
 6. Launch minecraft. You should see a new installation option for 'fabric'. Use that.
 
