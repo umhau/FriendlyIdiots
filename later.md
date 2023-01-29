@@ -1,20 +1,9 @@
 
-
-
 - https://www.curseforge.com/minecraft/mc-mods/xp-obelisk
-
 - https://www.curseforge.com/minecraft/mc-mods/mermod-fabric/files
 
 required on server and client
 =============================
-
-- https://www.curseforge.com/minecraft/mc-mods/flesh2leather-fabric/files
-
-- https://www.curseforge.com/minecraft/mc-mods/mythic-mounts/files
-
-- https://www.curseforge.com/minecraft/mc-mods/inmis
-
-- https://www.curseforge.com/minecraft/mc-mods/grizzly-bear
 
 - https://www.curseforge.com/minecraft/mc-mods/bedspreads-fabric
 
@@ -29,8 +18,8 @@ best on both client and server but does not require both
 --------------------------------------------------------
 
 - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
-- https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
-
+	- incompatible with create?
+	
 serverside only
 ---------------
 
@@ -49,3 +38,5 @@ clientside only
   * https://www.curseforge.com/minecraft/mc-mods/fabric-api/files
 
 - https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+
+- clumps
