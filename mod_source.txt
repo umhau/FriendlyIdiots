@@ -154,6 +154,14 @@ teleporter pillars
 https://modrinth.com/mod/waystones
 https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar
 
+Resource packs
+
+https://www.curseforge.com/minecraft/texture-packs/oliver-remund-painting-pack/files/all?page=1&pageSize=20
+
+outdated, only available 1.18
+https://www.curseforge.com/minecraft/texture-packs/renaissance-and-baroque-painting-pack
+
 Also looking into
 ferritecore (https://modrinth.com/mod/ferrite-core)
 modmenu (Fabric recommended) https://modrinth.com/mod/modmenu
+
