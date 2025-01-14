@@ -1,0 +1,159 @@
+Old 1.19.2 filenames used as names here
+links to new 1.20.1 versions linked
+
+cool, modrinth lets you just append to url: ?version=1.20.1&loader=fabric#download
+
+Fabric
+mod loader
+https://fabricmc.net/
+
+
+Chimes-1.1.4-1.19.2-Fabric.jar
+CicadaBluw
+https://www.curseforge.com/minecraft/mc-mods/chimes
+https://www.curseforge.com/minecraft/mc-mods/chimes/files/4671986
+1.20.1
+
+NaturesCompass-1.19.2-1.10.0-forge.jar
+https://modrinth.com/mod/natures-compass
+https://cdn.modrinth.com/data/fPetb5Kh/versions/NovIXDxY/NaturesCompass-1.20.1-2.2.3-fabric.jar
+
+Paintings++
+Paintings-fabric-1.19.2-10.2.4.0.jar
+AbsolemJackdaw
+https://www.curseforge.com/minecraft/mc-mods/paintings
+
+Patchouli-1.19.2-77-FABRIC.jar
+https://modrinth.com/mod/patchouli
+https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar
+
+RoughlyEnoughItems-9.1.587.jar
+https://modrinth.com/mod/rei
+https://cdn.modrinth.com/data/nfn13YXA/versions/nYcMSS03/RoughlyEnoughItems-12.1.785-fabric.jar
+
+Xaeros_Minimap_22.17.1_Fabric_1.19.1.jar
+https://modrinth.com/mod/xaeros-minimap
+https://cdn.modrinth.com/data/1bokaNcj/versions/UsAehJcE/Xaeros_Minimap_24.7.1_Fabric_1.20.jar
+
+appleskin
+squeek502
+https://modrinth.com/mod/appleskin
+appleskin-fabric-mc1.19-2.4.1.jar
+https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar
+
+architectury-6.4.61-fabric.jar
+https://modrinth.com/mod/architectury-api
+https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar
+
+balm-fabric-4.5.2+0.jar
+blay the ninth
+waystones dependency
+https://modrinth.com/mod/balm
+https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar
+
+cloth-config-8.2.88-fabric.jar
+shedaniel
+https://modrinth.com/mod/cloth-config
+https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar
+
+create-fabric-0.5.0g-796+1.19.2.jar
+https://modrinth.com/mod/create-fabric
+1.20.1 and 1.20 only
+https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631%2Bmc1.20.1.jar
+
+MmmMmmMmmMmm
+MehVahdJukaar
+dummmmmmy-1.19.2-1.6.2-fabric.jar
+https://modrinth.com/mod/mmmmmmmmmmmm
+https://cdn.modrinth.com/data/Adega8YN/versions/LUaKZqUd/dummmmmmy-1.20-2.0.5-fabric.jar
+
+elytraslot-fabric-6.0.0+1.19.2.jar
+TheIllusiveC4
+https://modrinth.com/mod/elytra-slothttps://modrinth.com/mod/elytra-slot
+https://cdn.modrinth.com/data/mSQF1NpT/versions/7w60aZYA/elytraslot-fabric-6.4.4%2B1.20.1.jar
+
+
+fabric api
+modmuss50
+fabric-api-0.73.0+1.19.2.jar
+https://modrinth.com/mod/fabric-api
+https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar
+
+flesh2leather-1.0.3+1.19.jar
+Gamma1772
+https://www.curseforge.com/minecraft/mc-mods/flesh2leather-fabric
+Has not advanced beyond 1.19.3
+
+flesh2leather-1.0.4+1.19.3.jar
+dunno why this one's here.
+
+geckolib-fabric-1.19-3.1.38.jar
+by gecko
+dependency for (not sure, maybe mythic mounts)
+https://modrinth.com/mod/geckolib
+https://cdn.modrinth.com/data/8BmcQJ2H/versions/DAY9559u/geckolib-fabric-1.20.1-4.7.jar
+
+grizzlybear-1.19.2-1.3.jar
+grizzly bear mod 
+https://modrinth.com/mod/grizzly-bear
+https://cdn.modrinth.com/data/x6nc2i5M/versions/L0Ou5uPd/grizzlybear-1.20-1.6.1.jar
+
+indium-1.0.9+mc1.19.2.jar
+comp500
+https://modrinth.com/mod/indium
+https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar
+Addon to sodium specific to fabric rendering api
+When we reach sodium 6.0, indium will be bundled into sodium.
+
+lithium-fabric-mc1.19.2-0.10.4.jar
+jellysquid3
+game logic optimization
+https://modrinth.com/mod/lithium
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar
+
+moonlight-1.19.2-2.2.2-fabric.jar
+MehVahdJukaar
+library maybe for MmmMmmMmmMmm
+https://modrinth.com/mod/moonlight
+https://cdn.modrinth.com/data/twkfQtEc/versions/zx0xmXfK/moonlight-1.20-2.13.49-fabric.jar
+
+mythic-mounts-1.19.2-7.1.jar
+chirpy.cricket
+https://modrinth.com/mod/mythic-mounts
+https://cdn.modrinth.com/data/xP7vOoRA/versions/a9GfsY3e/mythic-mounts-1.20.1-7.2.jar
+
+no-telemetry-1.4.0.jar
+kb1000
+https://modrinth.com/mod/no-telemetry
+https://cdn.modrinth.com/data/hg77g4Pw/versions/tmHWmt1u/no-telemetry-1.8.0.jar
+disables sending Mojang data about your usage/machine
+
+phosphor-fabric-mc1.19.x-0.8.1.jar
+jellysquid3
+lighting engine optimizer
+https://modrinth.com/mod/phosphor
+discontinued in 1.20
+not required: Mojang took the hint and made vanilla lighting smarter.
+
+sodium-fabric-mc1.19.2-0.4.4+build.18.jar
+jellysquid3
+rendering optimizations
+https://modrinth.com/mod/sodium
+https://cdn.modrinth.com/data/AANobbMI/versions/ygf8cVZg/sodium-fabric-0.5.11%2Bmc1.20.1.jar
+
+trinkets-3.4.2.jar
+emi
+https://modrinth.com/mod/trinkets
+redundant with elytra?
+https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar
+hasn't changed
+
+waystones-fabric-1.19-11.1.0.jar
+BlayTheNinth
+teleporter pillars
+https://modrinth.com/mod/waystones
+https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar
+
+Also looking into
+ferritecore (https://modrinth.com/mod/ferrite-core)
+modmenu (Fabric recommended) https://modrinth.com/mod/modmenu
