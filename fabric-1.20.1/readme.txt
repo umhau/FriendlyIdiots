@@ -31,7 +31,7 @@ Step 4 should only be done after the server updates.
 
 	4a. Go to: C:\Users\%username%\AppData\Roaming\.minecraft
 
-	4b. Paste the 'mods' and 'resourcepacks' folders into the '.minecraft' folder. (You 
+	4b. Delete/archive the previous 'mods' and 'resourcepacks' folders and paste the new 'mods' and 'resourcepacks' folders from the zip file in their place into the '.minecraft' folder. 
 
 5. Launch minecraft and enable resource packs
 
