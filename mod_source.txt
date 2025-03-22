@@ -165,3 +165,7 @@ Also looking into
 ferritecore (https://modrinth.com/mod/ferrite-core)
 modmenu (Fabric recommended) https://modrinth.com/mod/modmenu
 
+SERVER SIDE
+
+None as of 1.19.2. World generation mods no longer in effect.
+
