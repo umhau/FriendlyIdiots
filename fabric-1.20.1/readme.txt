@@ -5,7 +5,7 @@ Step 4 should only be done after the server updates.
 
 1. Run: fabric-installer-1.0.1.exe. 
 
-	1a. Choose minecraft version 1.20.1 and the default loader version (0.16.10) (see figure "doc/1a fabric installer settings.png"), and press 'install'.
+	1a. Choose minecraft version 1.20.1 and the default loader version (0.19.3) (see figure "doc/1a fabric installer settings.png"), and press 'install'.
 	
 2. Find/make a fabric installation 
 
@@ -13,7 +13,7 @@ Step 4 should only be done after the server updates.
 	
 	2b. If a fabric 1.20.1 installation doesn't exist yet, go to the "Installations" tab and click "new installation"
 	
-	2c. Under the "version" dropdown select "release fabric-loader-1.16.10-1.20.1". If you want to change any other settings like a clever name for the installation, you can; then press OK. This is the installation you'll select to access the server once it updates. (see figure "doc/2c create installation inside launcher.png")
+	2c. Under the "version" dropdown select "release fabric-loader-0.19.3-1.20.1". If you want to change any other settings like a clever name for the installation, you can; then press OK. Naming is more important if the minecraft version alone does not disambiguate (e.g. we had multiple 1.20.1 versions due to updating Create mod. This is the installation you'll select to access the server once it updates. (see figure "doc/2c create installation inside launcher.png")
 
 3. Run (once per computer): ZeroTier One.msi.
 
@@ -35,7 +35,7 @@ Step 4 should only be done after the server updates.
 
 5. Launch minecraft and enable resource packs
 
-	5a. Select the new installation option for 'fabric 1.20.1' from the homepage dropdown or from the Installations tab (see figure "doc/5a  select installation inside launcher.png"). Launch that.
+	5a. Select the new installation option for 'fabric 1.20.1' (or whatever you named the most recent installation) from the homepage dropdown or from the Installations tab (see figure "doc/5a  select installation inside launcher.png"). Launch that.
 
 	5b. At the Multiplayer vs Singleplayer selection window, choose 'options' -> 'resource packs'. 
 
