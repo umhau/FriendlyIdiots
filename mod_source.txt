@@ -56,10 +56,10 @@ shedaniel
 https://modrinth.com/mod/cloth-config
 https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar
 
-create-fabric-0.5.0g-796+1.19.2.jar
+create-fabric-6.0.8.1+build.1744-mc1.20.1.jar
 https://modrinth.com/mod/create-fabric
 1.20.1 and 1.20 only
-https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631%2Bmc1.20.1.jar
+https://cdn.modrinth.com/data/Xbc0uyRg/versions/HAqwA6X1/create-fabric-6.0.8.1%2Bbuild.1744-mc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=fabric
 
 MmmMmmMmmMmm
 MehVahdJukaar
@@ -75,9 +75,9 @@ https://cdn.modrinth.com/data/mSQF1NpT/versions/7w60aZYA/elytraslot-fabric-6.4.4
 
 fabric api
 modmuss50
-fabric-api-0.73.0+1.19.2.jar
+fabric-api-0.92.11+1.20.1.jar
 https://modrinth.com/mod/fabric-api
-https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar
+# https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar
 
 flesh2leather-1.0.3+1.19.jar
 Gamma1772
